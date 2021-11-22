@@ -1,6 +1,6 @@
 # Geek Paper
 
-A new Flutter project.
+Brand new digital paper.
 
 ## Getting Started
 
