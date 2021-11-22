@@ -1,4 +1,4 @@
-# geek_paper
+# Geek Paper
 
 A new Flutter project.
 
